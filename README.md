@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaiHieu674
+- 👋 Hi, I’m @MaiHieu
 - 👀 I’m interested in comics, movies, skateboard, etc.
 - 🌱 I’m currently learning comsci
 - 💞️ I’m looking to collaborate on ...
